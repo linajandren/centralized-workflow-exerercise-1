@@ -2,7 +2,7 @@
 
 Spicy curry typically served with parboiled rice.
 
-## Things you need
+## Ingredients
 
 Main ingredients
 - 1 cup of lentils

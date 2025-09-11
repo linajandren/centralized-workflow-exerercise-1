@@ -16,13 +16,14 @@
 - **Salt and pepper** to taste
 - **1 teaspoon** dried oregano or Italian seasoning
 - **Fresh basil** for garnish (optional)
-
+- **2 glasses** water
 
 ## Instructions
 
 1. **Preheat Oven:**
    - Preheat your oven to 375°F (190°C).
-
+- **2 glasses** water
+  
 2. **Prepare Vegetables:**
    - Heat olive oil in a large skillet over medium heat. Add the onion and garlic, sautéing until softened.
    - Add the bell pepper, zucchini, and spinach. Cook until the vegetables are
@@ -50,3 +51,4 @@
    - Let the lasagna cool for 10-15 minutes before slicing.
    - Garnish with fresh basil leaves if desired.
    - Serve warm and enjoy!
+   - serve with water

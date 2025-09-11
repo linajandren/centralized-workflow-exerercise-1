@@ -1,6 +1,6 @@
-## White Beans with Spinach and Basil
+# White Beans with Spinach and Basil
 
-# Ingredients
+## Ingredients
 
 - 1/2 cup raw cashews
 - 2 cups vegetable broth
@@ -11,7 +11,7 @@
 - 4 cups baby spinach sliced
 - 1/2 cup fresh basil sliced or chopped
 
-Steps
+## Instructions
 
 1. Prepare the Cashew Cream: Soak cashews, drain, add vegetable broth and blend.
 

@@ -3,8 +3,7 @@
 
 ## Ingredients
 
-- penne
-- pancetta
+- penneeeeeeee
 - peas
 - mushrooms
 - onions

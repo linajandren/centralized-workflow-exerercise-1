@@ -1,9 +1,9 @@
-# Pasta boscaiola recipe
+# Penne boscaiola recipe
 
 
 ## Ingredients
 
-- rigatoni
+- penne
 - pancetta
 - peas
 - mushrooms

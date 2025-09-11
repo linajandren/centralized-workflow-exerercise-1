@@ -34,18 +34,9 @@
 3. **Mix Cheeses:**
    - In a bowl, mix together the tofu ricotta, and a pinch of salt and pepper. Set aside.
 
-4. **Assemble Lasagna:**
-   - Spread a thin layer of marinara sauce over the bottom of the baking dish.
-   - Place a layer of lasagna noodles over the sauce.
-   - Spread half of the ricotta mixture over the noodles.
-   - Add half of the sautéed vegetables over the ricotta layer.
-   - Sprinkle a layer of vegan mozzarella cheese.
-   - Repeat the layers: sauce, noodles, ricotta mixture, vegetables, and vegan mozzarella.
-   - Top with a final layer of noodles, the remaining sauce, and sprinkle the rest of the vegan mozzarela.
-
 5. **Bake:**
    - Cover the lasagna with aluminum foil and bake in the preheated oven for 25 minutes.
-   - Remove the foil and bake for another 15-20 minutes, or until the cheese is bubbly and golden brown.
+   - Remove the foil and bake for another 30-40 minutes, or until the cheese is bubbly and golden brown.
 
 6. **Serve:**
    - Let the lasagna cool for 10-15 minutes before slicing.

@@ -1,5 +1,5 @@
 # French Onion Soup
-Typical dish from region _insert region_.
+Typical dish from region Centre Val de Loire.
 ## Ingredients
 
 4 large yellow onions, thinly sliced
